@@ -1,7 +1,7 @@
 # Simple-Virus-With-Python
 A simple malware that tries to explain the logic of computer viruses with Python.
 
-![image](https://user-images.githubusercontent.com/42627045/134780778-7d7d26dc-1da4-49c9-8374-0a618f4b4fcd.png)
+![image](https://user-images.githubusercontent.com/42627045/134780878-2793331c-6dbf-4138-ab1f-39e3903b6ad5.png)
 
 
 # What Is The Virus ?
